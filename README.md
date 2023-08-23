@@ -17,7 +17,7 @@ To write a program to implement the linear regression using gradient descent.
 
 
 ## Program:
-```
+```python
 /*
 Program to implement the linear regression using gradient descent.
 Developed by: 212221230071
